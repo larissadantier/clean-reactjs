@@ -2,6 +2,9 @@
   "name": "clean-reactjs",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^28.1.6",
