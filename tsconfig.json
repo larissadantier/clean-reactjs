@@ -12,6 +12,11 @@
     "jsx": "react",
     "rootDir": "src",
     "baseUrl": "src",
+    "paths": {
+      "@/*": [
+        "*"
+      ]
+    },
     "allowJs": true,
     "skipDefaultLibCheck": true,
     "allowSyntheticDefaultImports": true,
